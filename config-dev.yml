@@ -2,4 +2,4 @@ server:
   port: 8085
 
 config:
-  info: success!
+  info: success!(update)
